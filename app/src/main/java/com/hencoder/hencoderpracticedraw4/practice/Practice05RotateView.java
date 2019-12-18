@@ -15,8 +15,8 @@ import com.hencoder.hencoderpracticedraw4.R;
 public class Practice05RotateView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     Bitmap bitmap;
-    Point point1 = new Point(200, 200);
-    Point point2 = new Point(600, 200);
+    Point point1 = new Point(100, 200);
+    Point point2 = new Point(500, 200);
 
     public Practice05RotateView(Context context) {
         super(context);
